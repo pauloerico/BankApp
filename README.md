@@ -1,4 +1,4 @@
-#Bank App
+# Bank App
 <hr>
 
 ## About Project
